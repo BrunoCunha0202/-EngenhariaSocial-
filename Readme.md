@@ -1,4 +1,4 @@
-A engenharia social é uma técnica de manipulação que explora erros humanos para obter informações privadas, acessos ou coisas de valor. No crime cibernético, esses golpes de "hacking humano" tendem a atrair usuários desavisados para expor dados, espalhar infecções por malware ou dar acesso a sistemas restritos. Os ataques podem acontecer on-line, em pessoa e por outros meios de interação.
+A ENGENHARIA SOCIAL  é uma técnica de manipulação que explora erros humanos para obter informações privadas, acessos ou coisas de valor. No crime cibernético, esses golpes de "hacking humano" tendem a atrair usuários desavisados para expor dados, espalhar infecções por malware ou dar acesso a sistemas restritos. Os ataques podem acontecer on-line, em pessoa e por outros meios de interação.
 
 Os golpes promovidos com base em engenharia social são feitos a partir de como as pessoas pensam e agem. Sendo assim, os ataques de engenharia social são especialmente úteis para manipular o comportamento de um usuário. Quando um invasor entende o que motiva as ações de um usuário, ele pode enganar e manipular o usuário de forma eficaz.
 
